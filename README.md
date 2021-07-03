@@ -22,7 +22,7 @@ BA1L       	| Implement PatternToNumber
 BA1M       	| Implement NumberToPattern                                   	
 BA1N       	| Generate the d-Neighborhood of a String                     
  
-Solved Problems: Chapter 2: [Solution Link](https://github.com/sharmin6630/Bioinformatics-Rosalind/blob/main/Chapter_2.ipynb)
+## Solved Problems: Chapter 2: [Solution Link](https://github.com/sharmin6630/Bioinformatics-Rosalind/blob/main/Chapter_2.ipynb)
 
 ID          | Title                                                        
 ------------|--------------------------------------------------------------
@@ -35,7 +35,7 @@ BA2F       	| Implement RandomizedMotifSearch
 BA2G       	| Implement GibbsSampler
 BA2H       	| Implement DistanceBetweenPatternAndStrings    
 
-Solved Problems: Chapter 3: [Solution Link](https://github.com/sharmin6630/Bioinformatics-Rosalind/blob/main/Chapter_3.ipynb)
+## Solved Problems: Chapter 3: [Solution Link](https://github.com/sharmin6630/Bioinformatics-Rosalind/blob/main/Chapter_3.ipynb)
 
 ID          | Title                                                        
 ------------|--------------------------------------------------------------
@@ -52,3 +52,30 @@ BA3J       	| Reconstruct a String from its Paired Composition
 BA3K        | Generate Contigs from a Collection of Reads
 BA3L       	| Construct a String Spelled by a Gapped Genome Path    
 BA3M       	| Generate All Maximal Non-Branching Paths in a Graph  
+
+## Solved Problems: Chapter 4: [Solution Link](https://github.com/sharmin6630/Bioinformatics-Rosalind/blob/main/Chapter_4.ipynb)
+
+ID          | Title                                                        
+------------|--------------------------------------------------------------
+BA4A       	| Translate an RNA String into an Amino Acid String              	
+BA4B       	| Find Substrings of a Genome Encoding a Given Amino Acid String 	
+BA4C       	| Generate the Theoretical Spectrum of a Cyclic Peptide
+BA4D       	| Compute the Number of Peptides of Given Total Mass
+BA4F       	| Compute the Score of a Cyclic Peptide Against a Spectrum
+BA4H       	| Generate the Convolution of a Spectrum  
+BA4G       	| Implement LeaderboardCyclopeptideSequencing    
+BA4I       	| Implement ConvolutionCyclopeptideSequencing
+
+## Solved Problems: Chapter 9: [Solution Link](https://github.com/sharmin6630/Bioinformatics-Rosalind/blob/main/Chapter_9.ipynb)
+
+ID          | Title                                                        
+------------|--------------------------------------------------------------
+BA9A       	| Construct a Trie from a Collection of Patterns     
+BA9B       	| Implement TrieMatching  
+BA9G       	| Construct the Suffix Array of a String 
+BA9H       	| Pattern Matching with the Suffix Array
+BA9I       	| Construct the Burrows-Wheeler Transform of a String     	
+BA9J       	| Reconstruct a String from its Burrows-Wheeler Transform 	
+BA9K       	| Generate the Last-to-First Mapping of a String      
+BA9N       	| Find All Occurrences of a Collection of Patterns in a String
+BA9O       	| Find All Approximate Occurrences of a Collection of Patterns in a String
