@@ -3,7 +3,7 @@
 # Rosalind
 Repository is for bioinformatics problems from the textbook track of Rosalind, "Bioinformatics Algorithms - An Active Learning Approach" by Phillip Compeau &amp; Pavel Pevzner.
 
-## Solved Problems: Chapter 1: [Solution Link](https://github.com/sharmin6630/Bioinformatics-Rosalind/blob/main/Chapter_1.ipynb)
+## Solved Problems: [Chapter 1](https://github.com/sharmin6630/Bioinformatics-Rosalind/blob/main/Chapter_1.ipynb)
 
 ID          | Title                                                        
 ------------|--------------------------------------------------------------
@@ -22,7 +22,7 @@ BA1L       	| Implement PatternToNumber
 BA1M       	| Implement NumberToPattern                                   	
 BA1N       	| Generate the d-Neighborhood of a String                     
  
-## Solved Problems: Chapter 2: [Solution Link](https://github.com/sharmin6630/Bioinformatics-Rosalind/blob/main/Chapter_2.ipynb)
+## Solved Problems: [Chapter 2](https://github.com/sharmin6630/Bioinformatics-Rosalind/blob/main/Chapter_2.ipynb)
 
 ID          | Title                                                        
 ------------|--------------------------------------------------------------
@@ -35,7 +35,7 @@ BA2F       	| Implement RandomizedMotifSearch
 BA2G       	| Implement GibbsSampler
 BA2H       	| Implement DistanceBetweenPatternAndStrings    
 
-## Solved Problems: Chapter 3: [Solution Link](https://github.com/sharmin6630/Bioinformatics-Rosalind/blob/main/Chapter_3.ipynb)
+## Solved Problems: [Chapter 3](https://github.com/sharmin6630/Bioinformatics-Rosalind/blob/main/Chapter_3.ipynb)
 
 ID          | Title                                                        
 ------------|--------------------------------------------------------------
@@ -53,7 +53,7 @@ BA3K        | Generate Contigs from a Collection of Reads
 BA3L       	| Construct a String Spelled by a Gapped Genome Path    
 BA3M       	| Generate All Maximal Non-Branching Paths in a Graph  
 
-## Solved Problems: Chapter 4: [Solution Link](https://github.com/sharmin6630/Bioinformatics-Rosalind/blob/main/Chapter_4.ipynb)
+## Solved Problems: [Chapter 4](https://github.com/sharmin6630/Bioinformatics-Rosalind/blob/main/Chapter_4.ipynb)
 
 ID          | Title                                                        
 ------------|--------------------------------------------------------------
@@ -66,7 +66,7 @@ BA4H       	| Generate the Convolution of a Spectrum
 BA4G       	| Implement LeaderboardCyclopeptideSequencing    
 BA4I       	| Implement ConvolutionCyclopeptideSequencing
 
-## Solved Problems: Chapter 9: [Solution Link](https://github.com/sharmin6630/Bioinformatics-Rosalind/blob/main/Chapter_9.ipynb)
+## Solved Problems: [Chapter 9](https://github.com/sharmin6630/Bioinformatics-Rosalind/blob/main/Chapter_9.ipynb)
 
 ID          | Title                                                        
 ------------|--------------------------------------------------------------
