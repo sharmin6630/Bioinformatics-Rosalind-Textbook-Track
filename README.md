@@ -3,7 +3,7 @@
 # Rosalind
 Repository is for bioinformatics problems from the textbook track of Rosalind, "Bioinformatics Algorithms - An Active Learning Approach" by Phillip Compeau &amp; Pavel Pevzner.
 
-Solved Problems: Chapter 1: [Solution Link](https://github.com/sharmin6630/Bioinformatics-Rosalind/blob/main/Chapter_1.ipynb)
+## Solved Problems: Chapter 1: [Solution Link](https://github.com/sharmin6630/Bioinformatics-Rosalind/blob/main/Chapter_1.ipynb)
 
 ID          | Title                                                        
 ------------|--------------------------------------------------------------
